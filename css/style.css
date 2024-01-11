@@ -18,6 +18,11 @@ body {
     color: red;
 }
 
+#divPicture {
+    margin-left: 300px;
+}
+
 #coolPicture {
-    size: small;
+    width: 50%;
+    height: 50%;
 }
