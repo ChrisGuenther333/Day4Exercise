@@ -9,6 +9,10 @@ body {
     flex-direction: column;
 }
 
-#wow {
+#imageHeadFoot {
     color: red;
+}
+
+#coolPicture {
+    size: small;
 }
